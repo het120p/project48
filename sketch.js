@@ -11,12 +11,12 @@ var gameState= PLAY;
 var restart,r;
 
 function preload(){
-bgImage=loadImage("images/background.png");
-fgImage=loadImage("images/footGround.png");
-birdImage=loadImage("images/bird.png");
-pipeNorthImage=loadImage("images/pipe2Image.png");
-pipeSouthImage=loadImage("images/pipeImage.png");
-r=loadImage("images/restart.png")
+bgImage=loadImage("Images/background.png");
+fgImage=loadImage("Images/footGround.png");
+birdImage=loadImage("Images/bird.png");
+pipeNorthImage=loadImage("Images/pipe2Image.png");
+pipeSouthImage=loadImage("Images/pipeImage.png");
+r=loadImage("Images/restart.png")
 
 }
 
